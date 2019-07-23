@@ -1,4 +1,4 @@
-# Vector.io Assessment
+# React Drag & drop
 
 A simple drag and drop list of card written in React.
 This features consumption of the data file, as well as possibilty to drag/drop cards, zoom in, and lazy loading.
